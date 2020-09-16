@@ -1,4 +1,4 @@
-# PhD-Notes
+# PhD-Resources
 
 ## Writing Paper in LateX
 

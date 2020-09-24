@@ -1,7 +1,7 @@
 # Read Research Papers
 
 - Reading is the process of getting ideas from the author, you must focus on the author's thoughts, not just read the words on the paper.
-- In order to get the most from your reading, you should be properly prepared. 
+- In order to get the most from your reading, you should be properly prepared.
 - Find a quiet place to work where you will not be disturbed or distracted have a pencil and notepad at hand, and bear in mind exactly what you expect to get from this paper.
 
 ## Three pass approach
@@ -48,7 +48,10 @@ In the second pass, read the paper with greater care, but ignore details such as
 
 #### Steps - SP
 
-- Look carefully at the figures, diagrams and other illustrations in the paper. Pay special attention to graphs and read the captions. Are the axes properly labeled? Are results shown with error bars, so that conclusions are statistically significant? Common mistakes like these will separate rushed, shoddy work from the truly excellent.
+- Look carefully at the figures, diagrams, graphs and other illustrations in the paper. Read the captions.
+  - Are the axes properly labeled?
+  - Are results shown with error bars, so that conclusions are statistically significant?
+  - Common mistakes like these will separate rushed, shoddy work from the truly excellent.
 
 - Read the definitions and theorems.
 
@@ -77,6 +80,7 @@ Should take up to an hour.
 ### Third Pass
 
 - To fully understand a paper, particularly if you are reviewer, requires a third pass.
+- This pass requires great attention to detail.
 - When you read a paper in detail, approach it with scientific skepticism. You can do this by trying to tear the arguments apart.
 - By challenging what you read,
   - you will understand better what the author is saying and why they say it.
@@ -87,8 +91,6 @@ Should take up to an hour.
 
 The key to the third pass is to
 
-- attempt to virtually re-implement the paper: that is, making the same assumptions as the authors, re-create the work. By comparing this re-creation with the actual paper, you can easily identify not only a paper’s innovations, but also its hidden failings and assumptions. This pass requires great attention to detail.
-- identify and challenge every assumption in every statement. Moreover, you should think about how you yourself would present a particular idea. This comparison of the actual with the virtual lends a sharp insight into the proof and presentation techniques in the paper and you can very likely add this to your repertoire of tools.
 - During this pass, you should also jot down ideas for future work.
 
 - Examine the assumptions
@@ -110,6 +112,12 @@ The key to the third pass is to
   - Do the conclusions follow logically from the observations
   - What other explanations are there for the observed effects?
   - What other conclusions or correlations are there in the data that they did not point out?
+
+- identify and challenge every assumption in every statement.
+  - Moreover, you should think about how you yourself would present a particular idea.
+  - This comparison of the actual with the virtual lends a sharp insight into the proof and presentation techniques in the paper and you can very likely add this to your repertoire of tools.
+- attempt to virtually re-implement the paper: that is, making the same assumptions as the authors, re-create the work.
+  - By comparing this re-creation with the actual paper, you can easily identify not only a paper’s innovations, but also its hidden failings and assumptions.
 
 #### Output - TP
 

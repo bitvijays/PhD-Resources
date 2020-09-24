@@ -1,5 +1,10 @@
 ## Writing up a paper
 
+### Writing Paper
+
+write a paper, you can expect most
+reviewers (and readers) to make only one pass over it. Take care to choose coherent section and sub-section titles and to write concise and comprehensive abstracts. If a reviewer cannot understand the gist after one pass, the paper will likely be rejected; if a reader cannot understand the high- lights of the paper after five minutes, the paper will likely never be read.
+
 A good principle is to begin early: if it is possible to start writing, then writing should start. Shaping the research and its outcomes into a write-up is an effective way of giving structure to a project.
 
 The three main phases of a write-up are organizing materials so that the work tells a story, giving this story the structure of a thesis or ofan academic paper, and actually writing.

@@ -1,21 +1,8 @@
 # Read Research Papers
 
-## Critical Reading
-
-Read papers by asking critical questions of them, such as:
-
-- Is there a contribution? Is it significant?
-- Is the contribution of interest?
-- Are the results correct?
-- Is the appropriate literature discussed?
-- Does the methodology actually answer the initial question?
-- Are the proposals and results critically analyzed?
-- Are appropriate conclusions drawn from the results, or are there other possible interpretations?
-- Are all the technical details correct? Are they sensible?
-- Could the results be verified?
-- Are there any serious ambiguities or inconsistencies?
-
-The above questions also provide a hint on how a research paper should be written and should contain.
+- Reading is the process of getting ideas from the author, you must focus on the author's thoughts, not just read the words on the paper.
+- In order to get the most from your reading, you should be properly prepared. 
+- Find a quiet place to work where you will not be disturbed or distracted have a pencil and notepad at hand, and bear in mind exactly what you expect to get from this paper.
 
 ## Three pass approach
 
@@ -27,8 +14,7 @@ Read the paper in up to three passes, instead of starting at the beginning and p
 
 ### First Pass
 
-The first pass is a quick scan to get a bird’s-eye view of
-the paper.
+The first pass is a quick scan to get a bird’s-eye view of the paper.
 
 #### Steps - FP
 
@@ -62,8 +48,23 @@ In the second pass, read the paper with greater care, but ignore details such as
 
 #### Steps - SP
 
-1. Look carefully at the figures, diagrams and other illustrations in the paper. Pay special attention to graphs. Are the axes properly labeled? Are results shown with error bars, so that conclusions are statistically sig- nificant? Common mistakes like these will separate rushed, shoddy work from the truly excellent.
-2. Remember to mark relevant unread references for further reading (this is a good way to learn more about the background of the paper).
+- Look carefully at the figures, diagrams and other illustrations in the paper. Pay special attention to graphs and read the captions. Are the axes properly labeled? Are results shown with error bars, so that conclusions are statistically significant? Common mistakes like these will separate rushed, shoddy work from the truly excellent.
+
+- Read the definitions and theorems.
+
+- Skim the bibliography.
+  - How extensive is it?
+  - Are the authors aware of current work?
+  - Does it reference classic papers in this field?
+  - Have you read any of the papers that are referred to?
+  - Do you know relevant research that isn't cited?
+  - Remember to mark relevant unread references for further reading (this is a good way to learn more about the background of the paper).
+
+- Consider the credibility of the article
+  - Who wrote it? Are they well-known?
+  - Where do they work? What biases might they have as a result of their employer?
+  - Where was the article published? What is the reputation of the journal? Was the journal refereed?
+  - When was it written? Might it be outdated or superceded?
 
 #### Output - SP
 
@@ -75,7 +76,12 @@ Should take up to an hour.
 
 ### Third Pass
 
-To fully understand a paper, particularly if you are reviewer, requires a third pass.
+- To fully understand a paper, particularly if you are reviewer, requires a third pass.
+- When you read a paper in detail, approach it with scientific skepticism. You can do this by trying to tear the arguments apart.
+- By challenging what you read,
+  - you will understand better what the author is saying and why they say it.
+  - You will also be able to decide whether the evidence supports their conclusions, and to draw your own conclusions from their data.
+  - Once you understand the paper, ask yourself how you can apply their approach to your own work.
 
 #### Steps - TP
 
@@ -85,6 +91,26 @@ The key to the third pass is to
 - identify and challenge every assumption in every statement. Moreover, you should think about how you yourself would present a particular idea. This comparison of the actual with the virtual lends a sharp insight into the proof and presentation techniques in the paper and you can very likely add this to your repertoire of tools.
 - During this pass, you should also jot down ideas for future work.
 
+- Examine the assumptions
+  - Do their results rely on any assumptions about trends or environments?
+  - Are these assumptions reasonable?
+
+- Examine the methods
+  - Did they measure what they claim?
+  - Can they explain what they observed?
+  - Did they have adequate controls?
+  - Were tests carried out in a standard way?
+
+- Examine the statistics
+  - Were appropriate statistical tests applied properly?
+  - Did they do proper error analysis?
+  - Are the results statistically significant?
+
+- Examine the conclusions
+  - Do the conclusions follow logically from the observations
+  - What other explanations are there for the observed effects?
+  - What other conclusions or correlations are there in the data that they did not point out?
+
 #### Output - TP
 
 - Should be able to reconstruct the entire structure of the paper from memory, as well as be able to identify its strong and weak points.
@@ -93,3 +119,20 @@ The key to the third pass is to
 #### Time Required - TP
 
 Should take four or five hours for beginners and about an hour for an experienced reader.
+
+## Critical Reading
+
+Read papers by asking critical questions of them, such as:
+
+- Is there a contribution? Is it significant?
+- Is the contribution of interest?
+- Are the results correct?
+- Is the appropriate literature discussed?
+- Does the methodology actually answer the initial question?
+- Are the proposals and results critically analyzed?
+- Are appropriate conclusions drawn from the results, or are there other possible interpretations?
+- Are all the technical details correct? Are they sensible?
+- Could the results be verified?
+- Are there any serious ambiguities or inconsistencies?
+
+The above questions also provide a hint on how a research paper should be written and should contain.

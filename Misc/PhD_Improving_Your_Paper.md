@@ -5,7 +5,7 @@ To improve the paper, please refer
 1. [Good Style](#Good-Style)
 2. [Style Specfics](#Style-Specfics)
 3. [Punctuation](#Punctuation)
-4. [Graphs, Figures and Tables](#Graphs,-Figures-and-Tables)
+4. [Graphs, Figures and Tables](#graphs-figures-and-tables)
 
 ## Good Style
 

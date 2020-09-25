@@ -1,5 +1,12 @@
 # Improving the Paper
 
+To improve the paper, please refer
+
+1. [Good Style](#Good-Style)
+2. [Style Specfics](#Style-Specfics)
+3. [Punctuation](#Punctuation)
+4. [Graphs, Figures and Tables](#Graphs,-Figures-and-Tables)
+
 ## Good Style
 
 ### Economy
@@ -67,10 +74,6 @@ Within a paper, each topic should be discussed to a similar depth.
 - Use of “we” is valuable when trying to distinguish between the contribution made in your paper and existing results in a field, particularly in an abstract or introduction.
 
 - Use of “we” can allow some kinds of statements to be simplified — consider “we show” versus “in this paper it is shown that”. “We” is preferable to pretentious expressions such as “the authors”.
-
-### The upper hand
-
-D
 
 ### Obfuscation
 
@@ -210,7 +213,7 @@ Good style is about clear, easy-to-read writing, which can be achieved by follow
 
 ### Variation
 
-- Diversity—in organization, structure, length of sentences and paragraphs, and word choice — helps to keep the reader’s attention.
+- Diversity — in organization, structure, length of sentences and paragraphs, and word choice — helps to keep the reader’s attention.
 
 ### Paragraphing
 

@@ -7,12 +7,17 @@
 - Text should be taut.
 - The length of a paper should reflect its content — it is admirable to use only as many words as are required. Every sentence should be necessary.
 - Taut writing is a consequence of careful, frequent revision.
+
+#### Checklist - Economy
+
 - Aim to delete superfluous words, simplify sentence structure, and establish a logical flow.
 
 ### Tone
 
 - Science writing should be objective and accurate.
 - Many of the elements that give literature its strength — nuance, ambiguity, metaphor, sensuality — are inappropriate for technical work.
+
+#### Checklist - Tone
 
 Simple writing follows from a few simple rules:
 
@@ -57,7 +62,7 @@ Within a paper, each topic should be discussed to a similar depth.
 
 - Some authors use phrases such as “this paper shows” and “this section argues”. These phrases, with their implication that the paper, not the author, is doing the arguing, should generally be avoided.
 
-#### Acceptable
+#### Acceptable - Voice
 
 - Use of “we” is valuable when trying to distinguish between the contribution made in your paper and existing results in a field, particularly in an abstract or introduction.
 
@@ -77,7 +82,7 @@ D
 
 #### Checklist - Obfuscation
 
-- Stating that “theremay be exceptions in some circumstances” or “data was transmitted fast” is not helpful.
+- Stating that “there may be exceptions in some circumstances” or “data was transmitted fast” is not helpful.
 
 ### Analogies
 
@@ -94,13 +99,22 @@ D
 
 #### Checklist - Straw Men
 
-- Avoid nonsense, absurdity, and over-generalization. Example: Execution was almost instantaneous. The Web is infinitely large. There is no limit to the possible efficiency gains.
+- Avoid nonsense, absurdity, and over-generalization.
+- Example:
+  - Execution was almost instantaneous.
+  - The Web is infinitely large.
+  - There is no limit to the possible efficiency gains.
 
 ### Reference and Citations
 
 #### References
 
-- Refer to an original paper in preference to a secondary source; to well-written material in preference to bad; to a book, conference paper, or journal article in preference to a workshop paper; to a workshop paper in preference to a manuscript (which have the disadvantage of being unrefereed); and to formally published documents rather than Web pages.
+- Refer to
+  - an original paper in preference to a secondary source;
+  - to well-written material in preference to bad;
+  - to a book, conference paper, or journal article in preference to a workshop paper;
+  - to a workshop paper in preference to a manuscript (which have the disadvantage of being unrefereed); and
+  - to formally published documents rather than Web pages.
 
 - Avoid reference to private communications and information provided in forums such as seminars or talks—such information cannot be accessed or verified by the reader. In the rare circumstance that you must refer to such material, do so via a footnote, parenthetical remark, or acknowledgement.
 
@@ -110,10 +124,10 @@ D
 
 - References that are discussed should not be anonymous.
 
-```
-X - Other work [16] has used an approach in which…
-Y - Marsden [16] has used an approach in which…
-```
+   ```
+   X - Other work [16] has used an approach in which…
+   Y - Marsden [16] has used an approach in which…
+   ```
 
 - Likewise, self-references should not be anonymous — it should be clear to the reader that references used to support your argument are your own papers, not independent authorities.
 
@@ -122,7 +136,7 @@ Y - Marsden [16] has used an approach in which…
 Citations can be done in three styles:
 
 - One is the ordinal-number style, in which entries in the reference list are numbered and are cited by their number, as in “…is discussed elsewhere [16]”.
-- The other is the name-and-date or Harvard style— my preferred style—in which entries are cited by author name using either square or round brackets:
+- The other is the name-and-date or Harvard style. Preferred style — in which entries are cited by author name using either square or round brackets:
 - A third common style is to use superscripted ordinal numbers, as in “… is discussed elsewhere16”.
 
 - When discussing a reference with more than two authors, all but the first author’s name can be replaced by “et al.” In a variant of this style, the full list is given at the first citation, and the abbreviated form thereafter. Note the stop: “et al.” is an abbreviation.

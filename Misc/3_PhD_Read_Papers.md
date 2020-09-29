@@ -4,6 +4,20 @@
 - In order to get the most from your reading, you should be properly prepared.
 - Find a quiet place to work where you will not be disturbed or distracted have a pencil and notepad at hand, and bear in mind exactly what you expect to get from this paper.
 
+The below is an advice to a teacher for their student. We are the student here, so kind of understand what we should know:
+
+- Don't just teach your students to read.
+  - Teach them to question what they read, what they study.
+  - Teach them to doubt.
+  - Teach them to think.
+  - Teach them to make mistakes and learn from them.
+  - Teach them how to understand something.
+  - Teach them how to teach others.
+  - Teach them to summarise what they have learnt.
+  - Let them find applications in "the real world" (esp. everyday items) themselves.
+
+  As a student (we), should question, doubt, think, make mistakes, understand, teach others, summarize and find real world examples. Keeping this in mind while reading.
+
 ## Three pass approach
 
 Read the paper in up to three passes, instead of starting at the beginning and plowing your way to the end.

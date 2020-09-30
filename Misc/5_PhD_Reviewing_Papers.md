@@ -1,8 +1,10 @@
-## Reviewing Papers
+# Reviewing Papers
 
-### Contribution
+## Contribution
 
-Contribution is the main criterion for judging a paper. A paper is a contribution if it has two properties: originality and validity. The originality of a paper is the degree to which the ideas presented are significant, new, and interesting. Most papers are to some degree extensions or variations of previously published work; really groundbreaking ideas are rare.
+Contribution is the main criterion for judging a paper. A paper is a contribution if it has two properties: originality and validity.
+
+- The originality of a paper is the degree to which the ideas presented are significant, new, and interesting. Most papers are to some degree extensions or variations of previously published work; really groundbreaking ideas are rare.
 
 ### Evaluation of Papers
 

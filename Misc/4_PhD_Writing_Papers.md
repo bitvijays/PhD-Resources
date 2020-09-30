@@ -19,3 +19,7 @@ Refer [Improve Your Paper](4_C_PhD_WP_Improve_Your_Paper.md)
 ## Final Touch
 
 Refer [Final Touch](4_D_PhD_WP_Final_Touch.md)
+
+## LaTeX Tips
+
+Refer [LaTeX Tips](4_E_PhD_WP_LaTeX_Tips.md)

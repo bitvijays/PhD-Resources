@@ -1,56 +1,27 @@
-# PhD-Resources
+# PhD Resources
 
-## Writing Paper in LateX
+Hello PhD Student!
 
-### Very Important
+We have created this community blog to help you have the resources to complete your PhD efficiently. When we started the PhD, the resources about performing different steps of PhD are scattered around the web. This is step to gather them and summarize in one place.
 
-1. Abstract, introduction and conclusion all should sync up. Reviewers make their mind in first 5-10 mins if they are going to accept or reject the draft.
+## Getting Started
 
-### Introduction
+Refer [Getting Started](1_PhD_Getting_Started.md)
 
-1. Clearly list the contributions (Ideally on the first page).
-   
-   Example
-   ```
-    \noindgras{Contributions:}
-    \begin{itemize}
-      \item we design a X platform for Y devices;
-      \item we demonstrate its relative performance gain compared to Z;
-      \item we demonstrate the practicality of the approach by building an XX;
-      \item finally, we propose an open-source implementation of the work presented in this paper.
-    \end{itemize}
-   ```
-   
-2. Provide the structure of the paper (Ideally on the first page)
+## Performing Literature Review
 
-   Example
-   ```
-   The remainder of this paper is organised as follows: \autoref{sec:background} provides a technical background. 
-   \autoref{sec:implementation} describes the implementation of system. 
-   \autoref{sec:evaluation} provides an evaluation by comparing its X, Y, Z with an alternative. 
-   \autoref{sec:usecase} demonstrates XX by applying it to a real use case. 
-   \autoref{sec:related_work} performs a comparison of current system to XX and discusses related work in the fields of YY, ZZ.
-   ```
+Refer [Performing Literature Review](2_PhD_Performing_Literature_Review.md)
 
-### Diagrams
+## Read Papers
 
-1. Legends in the graph can be inside the figure to save spaces. (Assuming, your diagrams are made in PGFPlot).
+Refer [Read Papers](3_PhD_Read_Papers.md)
 
-### Bibliography
+## Write Papers
 
-1. Probably, Bibliography should only contain journal, conference papers, technical reports; it should not contain much URLs. URLs should be in the footnotes. However, this differs from supervisors to supervisors. Kindly ask your supervisor whether they would like URLs in the footnote or in the Bibliography.
+Refer [Writing Papers](4_PhD_Writing_Papers.md)
 
-### LaTeX redefinitions
+## Review Papers
 
-```
-%%  
-\newcommand{\noindgras}[1]{{\noindent \textbf{#1}}}
-%% 
-\renewcommand{\figureautorefname}{Fig.}
-\newcommand{\subfigureautorefname}{Fig.}
-\renewcommand{\tableautorefname}{Table}
-\renewcommand{\sectionautorefname}{\S}
-\renewcommand{\subsectionautorefname}{\S}
-\renewcommand{\subsubsectionautorefname}{\S}
-\providecommand*{\lstlistingautorefname}{Listing}
-```
+Refer [Review Papers](5_PhD_Reviewing_Papers.md)
+
+## References

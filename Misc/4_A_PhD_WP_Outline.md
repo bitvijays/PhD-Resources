@@ -102,7 +102,8 @@ Introduction should have these elements:
 
 #### Background
 
-- Who else has done what? How? What have we done previously?
+- Who else has done what? How?
+- What have we done previously?
 
 #### Guidance to the reader
 
@@ -118,8 +119,8 @@ Introduction should have these elements:
 
 - In advanced versions of the outline,
 
-  - you should also include all the sections that will go in the Experimental section (at the level of paragraph subheadings) and
-  - indicate what information will go in the Microfilm section.
+  - Include all the sections that will go in the Experimental section (at the level of paragraph subheadings) and
+  - Indicate what information will go in the Microfilm section.
 
 ### Results and Discussions
 
@@ -130,7 +131,7 @@ Introduction should have these elements:
 
 - In the outline, summarize the conclusions of the paper as a list of short phrases or sentences.
 - Do not repeat what is in the Results section, unless special emphasis is needed.
-- The Con- clusions section should be just that, and not a summary.
+- The Conclusions section should be just that, and not a summary.
 - It should add a new, higher level of analysis, and should indicate explicitly the significance of the work
 
 ### Experimental

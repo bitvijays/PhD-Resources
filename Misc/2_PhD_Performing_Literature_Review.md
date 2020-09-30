@@ -11,7 +11,7 @@
 - The papers should be grouped by topic, and critically discussed in a way that allows the reader to understand their contribution to the field, their limitations, and the questions that they leave open.
 
 - Begin a rough literature review as soon as you start reading, and, when you read a paper that you think will need to be discussed, add it in.
-- Briefly summarize each paper’s contribution and the evidence used to support the claims, and also note any shortcomings or features that are of interest. For your own reference, how the work might have been done better: for example, are there obvious experiments that should have been tried, or plausible counter-arguments to the claims?
+- Briefly summarize each paper's contribution and the evidence used to support the claims, and also note any shortcomings or features that are of interest. For your own reference, how the work might have been done better: for example, are there obvious experiments that should have been tried, or plausible counter-arguments to the claims?
 
 - Keep in mind that your understanding of other work helps examiners to judge your abilities as a researcher.
 
@@ -20,13 +20,13 @@
 - First, use an academic search engine such as Google Scholar or CiteSeer and some well-chosen keywords to find three to five recent papers in the area.
   - Do one pass on each paper to get a sense of the work, then read their related work sections.
   - You will find a thumbnail summary of the recent work, and perhaps, if you are lucky, a pointer to a recent survey paper.
-  - If you can find such a survey, you are done. Read the survey, congratulating yourself on your good luck.
+  - If you can find such a survey, read the survey.
 - Second step, find shared citations and repeated author names in the bibliography.
-  - These are the key papers and researchers in that area. Download the key papers and set them aside. Then go to the websites of the key researchers and see where they’ve published recently.
+  - These are the key papers and researchers in that area. Download the key papers and set them aside. Then go to the websites of the key researchers and see where they've published recently.
   - That will help you identify the top conferences in that field because the best researchers usually publish in the top conferences.
 - The third step is to go to the website for these top conferences and look through their recent proceedings.
   - A quick scan will usually identify recent high-quality related work.
-  - These papers, along with the ones you set aside earlier, con- stitute the first version of your survey.
+  - These papers, along with the ones you set aside earlier, constitute the first version of your survey.
   - Make two passes through these papers. If they all cite a key paper that you did not find earlier, obtain and read it, iterating as necessary.
 
 ## Finding research papers

@@ -1,56 +1,52 @@
-# PhD-Resources
+# PhD Resources
 
-## Writing Paper in LateX
+Hello PhD Student!
 
-### Very Important
+We have created this community blog to help you have the resources to complete your PhD efficiently. The resources about performing different steps of PhD are scattered around the web. The blog/repository is an attempt to gather them and summarize in one place.
 
-1. Abstract, introduction and conclusion all should sync up. Reviewers make their mind in first 5-10 mins if they are going to accept or reject the draft.
+## Getting Started
 
-### Introduction
+Refer [Getting Started](Misc/1_PhD_Getting_Started.md)
 
-1. Clearly list the contributions (Ideally on the first page).
-   
-   Example
-   ```
-    \noindgras{Contributions:}
-    \begin{itemize}
-      \item we design a X platform for Y devices;
-      \item we demonstrate its relative performance gain compared to Z;
-      \item we demonstrate the practicality of the approach by building an XX;
-      \item finally, we propose an open-source implementation of the work presented in this paper.
-    \end{itemize}
-   ```
-   
-2. Provide the structure of the paper (Ideally on the first page)
+## Performing Literature Review
 
-   Example
-   ```
-   The remainder of this paper is organised as follows: \autoref{sec:background} provides a technical background. 
-   \autoref{sec:implementation} describes the implementation of system. 
-   \autoref{sec:evaluation} provides an evaluation by comparing its X, Y, Z with an alternative. 
-   \autoref{sec:usecase} demonstrates XX by applying it to a real use case. 
-   \autoref{sec:related_work} performs a comparison of current system to XX and discusses related work in the fields of YY, ZZ.
-   ```
+Refer [Performing Literature Review](Misc/2_PhD_Performing_Literature_Review.md)
 
-### Diagrams
+## Read Papers
 
-1. Legends in the graph can be inside the figure to save spaces. (Assuming, your diagrams are made in PGFPlot).
+Refer [Read Papers](Misc/3_PhD_Read_Papers.md)
 
-### Bibliography
+## Write Papers
 
-1. Probably, Bibliography should only contain journal, conference papers, technical reports; it should not contain much URLs. URLs should be in the footnotes. However, this differs from supervisors to supervisors. Kindly ask your supervisor whether they would like URLs in the footnote or in the Bibliography.
+Refer [Writing Papers](Misc/4_PhD_Writing_Papers.md)
 
-### LaTeX redefinitions
+## Review Papers
 
-```
-%%  
-\newcommand{\noindgras}[1]{{\noindent \textbf{#1}}}
-%% 
-\renewcommand{\figureautorefname}{Fig.}
-\newcommand{\subfigureautorefname}{Fig.}
-\renewcommand{\tableautorefname}{Table}
-\renewcommand{\sectionautorefname}{\S}
-\renewcommand{\subsectionautorefname}{\S}
-\renewcommand{\subsubsectionautorefname}{\S}
-\providecommand*{\lstlistingautorefname}{Listing}
-```
+Refer [Review Papers](Misc/5_PhD_Reviewing_Papers.md)
+
+## References
+
+### Read Papers - References
+
+- [Efficient Reading of Papers in Science and Technology](Resources/Read/Read_Efficient.pdf)
+- [How to Read a Paper](Resources/Read/Read_Paper.pdf)
+
+### Write Papers - References
+
+- [Whitesides' Group: Writing a Paper](Resources/Write/Writing_Paper.pdf)
+- [Related Work](Resources/Write/Writing_Related_Work.pdf)
+- [How to Write a Scientific Paper](Resources/Write/Writing_Scientific_Paper.pdf)
+- [Tips for Writing Technical Paper](Resources/Write/Writing_Technical_Papers.pdf)
+
+Overall Writing
+
+- [Writing for Computer Science](https://link.springer.com/book/10.1007%2F978-1-4471-6639-9) - Please consider buying the book to support the author.
+
+### Review Papers - References
+
+- [Writing reviews for system conferences](Resources/Review/Review_Paper.pdf)
+- [Paper Review Form: PaperTitle](Resources/Review/Review_Summary.pdf)
+
+## Disclaimer
+
+The sole purpose of the blog is to support PhD Students. We have used the text from the above references and kind of summarized and tried to structure it in a streamlined manner.

@@ -40,8 +40,7 @@ For completing a successful PhD below things are very important.
 - PhD Thesis is the only part which is assessed. It is a mistake, for example, to implement a complete system rather than ask what code is needed to explore the research questions. explicitly consider what is needed at the end, then reason backwards.
 - The final thing required is the write-up in the form of a thesis, paper, or report; so plan in terms of the steps necessary to produce the write-up. The write-up is likely to involve a background review, explanations of previous and new algorithms, descriptions of experiments, and analysis of outcomes. Completion of each of these elements is a milestone.
 
-- The questions that examiners respond to are much the same as those a referee
-would ask of a paper.
+- The questions that examiners respond to are much the same as those a referee would ask of a paper.
 
 - A thesis passes (or fails) on the strength of your demonstration of competence; even if good results are not achieved, the thesis should pass if the ability to undertake high-quality research is shown. Questions that examiners might be asked to address include
   - whether you have demonstrated command of the fundamentals of the discipline,
@@ -84,4 +83,4 @@ In cases where researchers are working more or less as equals,
 - Can you write down a road map, with milestones, that provides a clear path to the anticipated research outcomes?
 - Do you and your advisor have an agreed method for working together, with a defined schedule of meetings?
 
-**Ensure that the answer to the above questions are well-defined. The sooner the better for the PhD**
+**Ensure that the answer to the above questions are well-defined. The sooner the better for the PhD.**

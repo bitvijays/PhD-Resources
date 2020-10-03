@@ -1,5 +1,7 @@
 # Writing Paper - Improving the Paper
 
+XX - Any section marked this is not yet formatted properly
+
 To improve the paper, please refer
 
 1. [Good Style](#Good-Style)

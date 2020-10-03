@@ -77,16 +77,51 @@ A typical write-up has most of the following components:
 
 ### Title and Author
 
+#### Title
+
+The title should be the fewest possible words that adequately describe the content of the paper.
+
+Titles can be long and descriptive:
+
+- Linear-Time External Multipass Sorting with Approximation Guarantees
+
+or short and sweet:
+
+- Approximate External Sort
+
+Here's a middle-of-the-road length, plus a cute name that sticks in people's minds:
+
+- Floosh: A Linear-Time Algorithm for Approximate External Sort
+
+Remember that
+
+- thousands of people will read the title of the paper, every though only a few may read the whole paper.
+- also that the indexing and abstracting services depend on the accuracy of the title.
+
+#### Author
+
 Papers begin with their title and information about authors including name, affiliation, and address.
 
 The front matter of a paper may also include other elements.
 
 - One is acknowledgements, which alternatively may follow the conclusions.
-- Another element is a collection of search terms, keywords, or key phrases  -  additional terminology that can be used to describe the topic of the paper.
+- Another element is a collection of search terms, keywords, or key phrases - additional terminology that can be used to describe the topic of the paper.
 
 ### Abstract
 
-An abstract is typically a single paragraph of about 50 - 200 words. concise summary of the paper's aims, scope, and conclusions. Irrelevancies, such as minor details or a description of the structure of the paper, are usually inappropriate, as are acronyms, mathematics, abbreviations, or citations
+A well-prepared abstract enables readers to identify the basic content of a paper quickly and accurately, to determine its relevance to their interests, and thus to decide whether they need to read the paper in its entirety.
+
+The abstract should
+
+- state the principal objectives and scope of the investigation,
+- describe the methodology employed,
+- summarize the results, and
+- state the principal conclusions.
+- concise summary of the paper's aims, scope, and conclusions.
+
+Irrelevancies, such as minor details or a description of the structure of the paper, are usually inappropriate, as are acronyms, mathematics, abbreviations, or citations
+
+It should never give any information or conclusion that is not stated in the paper. It should not exceed 250 words. In other words, the abstract should be designed to define clearly what is dealt with in the paper.
 
 Many abstracts follow a five-element organization:
 
@@ -98,7 +133,7 @@ Many abstracts follow a five-element organization:
 
 A draft of an abstract can consist of five sentences, one for each of the points above.
 
-Introductions should be structured in much the sameway, but with a paragraph or two, not a sentence, for each component.
+Introductions should be structured in much the same way, but with a paragraph or two, not a sentence, for each component.
 
 ### Introduction
 
@@ -108,11 +143,107 @@ Introductions should be structured in much the sameway, but with a paragraph or 
 - The introduction can discuss the importance or ramifications of the conclusions but should include only a brief summary of the supporting evidence, which the interested reader can find in the body of the paper.
 - The reader should also understand the contribution, that is, what the discovery of the work is - the core idea that the referees or examiners need to appreciate as novel and important. This understanding requires that the reader appreciates what the properties of this contribution are, what makes it interesting and plausible, what method was used to investigate it, and why the method is appropriate.
 
+#### Rules - Introduction
+
+- It should present first, with all possible clarity, the nature and scope of the problem investigated.
+- To orient the reader, a brief review of the pertinent literature is usually appropriate.
+- The method of investigation should be stated. If deemed rep necessary, the reasons for the choice of a particular method should be outlined.
+- The principal results of the investigation should be stated. Do not keep the reader in suspense; let him follow the man development of the evidence.
+
+Introduction should consist of five paragraphs answering the following five questions:
+
+1. What is the problem?
+2. Why is it interesting and important?
+3. Why is it hard? (E.g., why do naive approaches fail?)
+4. Why hasn't it been solved before? (Or, what's wrong with previous proposed solutions? How does mine differ?)
+5. What are the key components of my approach and results? Also include any specific limitations.
+
+Then have a final paragraph or subsection: "Summary of Contributions". It should list the major contributions in bullet form, mentioning in which sections they can be found. This material doubles as an outline of the rest of the paper, saving space and eliminating redundancy.
+
+### Related Work
+
+#### Position of Related Work
+
+Should related work be covered near the beginning of the paper or near the end?
+
+- Beginning, if it can be short yet detailed enough, or if it's critical to take a strong defensive stance about previous work right away. In this case Related Work can be either a subsection at the end of the Introduction, or its own Section 2.
+- End, if it can be summarized quickly early on (in the Introduction or Preliminaries), or if suficient comparisons require the technical content of the paper. In this case Related Work should appear just before the Conclusions, possibly in a more general section "Discussion and Related Work".
+
+#### Why write related work section
+
+To establish
+
+- Need for work
+  - Why previous works don’t get it done
+  - The limitations of past work
+- Mastery over area
+  - Established bona fides
+- Relationship to other scientific areas.
+  - How relates to bodies of other works
+- Others
+
+#### Wrong way
+
+Common, wrong, way to write a paper.
+
+- Algorithms a, b, c, and d. have been done.
+  - A is good because of Blah, bad because of Duh.
+  - B is good because of Blah’, bad because of Duh’.
+  - C is good because of Blah’’, bad because of Duh’’
+- A laundry list with no introspection about field in which it exists.
+
+#### Narrative
+
+- Tell a story about the field in which it exists. It should try to organize the field in such a way as you can see how the work evolves from start to finish.
+- Ideally, ends with the conclusion that the present work is needed.
+
+#### Summary
+
+- A good related work section should include works
+  - If they address the central problem
+  - If they address a related problem
+  - If they identified the problem
+  - If they use the same methodology for a similar problem
+  - If your work was inspired by them
+- It should be a narrative about the field, its logical relatives, the problems it faces, advances and failures, and motivating articles.
+  - Show how the body of work holds together in some philosophical or technological way
+  - Demonstrate mastery of subject matter to establish credentials for paper (often a fatality if done wrong)
+
 ### Body
 
 - The body of a paper should present the results.
 - This presentation should provide necessary background and terminology, explain the chain of reasoning that leads to the conclusions, provide the details of central proofs, summarize any experimental outcomes, and state in detail the conclusions outlined in the introduction.
 - Since the body can be long, narrative flow and a clear logical structure are essential.
+- In describing methods of the investigation, sufficient details should be given so that a competent worker could repeat the experiement.
+
+#### Rules - Body
+
+1. A clear new important technical contribution should have been articulated by the time the reader inishes page 3 (i.e., a quarter of the way through the paper).
+2. Every section of the paper should tell a story. (Don't, however, fall into the common trap of telling the entire story of how you arrived at your results. Just tell the story of the results themselves.) The story should be linear, keeping the reader engaged at every step and looking forward to the next step. There should be no signiicant interruptions -- those can go in the Appendix;
+
+#### Important components
+
+- Running Example: When possible, use a running example throughout the paper. It can be introduced either as a subsection at the end of the Introduction, or its own Section 2 or 3
+(depending on Related Work).
+- Preliminaries: This section, which follows the Introduction and possibly Related Work and/or Running Example, sets up notation and terminology that is not part of the technical
+contribution. One important function of this section is to delineate material that's not original but is needed for the paper.
+- Content: The meat of the paper includes algorithms, system descriptions, new language constructs, analyses, etc. Whenever possible use a "top-down" description: readers should be
+able to see where the material is going, and they should be able to skip ahead and still get the idea.
+
+### Performance Experiements
+
+- What should performance experiments measure? Possiblities:
+  - Pure running time
+  - Sensitivity to important parameters
+  - Scalability in various aspects: data size, problem complexity,
+  - Others?
+
+- What should performance experiments show? Possibilities:
+  - Absolute performance (i.e., it's acceptable/usable)
+  - Relative performance to naive approaches
+  - Relative performance to previous approaches
+  - Relative performance among different proposed approaches
+  - Others?
 
 ### Conclusions
 
@@ -124,13 +255,31 @@ Introductions should be structured in much the sameway, but with a paragraph or 
 - Write “Conclusions”, not “Conclusion”.
 - If you have no conclusions to draw, write “Summary”, which is often the appropriate way to end a thesis chapter.
 
+In general a short summarizing paragraph will do, and under no circumstances should the paragraph simply repeat material from the Abstract or Introduction. In some cases it's possible to now make the original claims more concrete, e.g., by referring to quantitative performance results.
+
+### Future Work
+
+This material is important part of the value of a paper is showing how the work sets new research directions.
+
+### Acknowledgement
+
+- Acknowledge any significant help received from any individual.
+- Acknowledge any outside financial assistance such as grants, contracts or fellowships.
+
 ### Bibliography
 
-- A paper's bibliography, or its set of references, is a complete list of theses, papers, books, and reports cited in the text. No other items should be included.
+A paper's bibliography, or its set of references, is a complete list of theses, papers, books, and reports cited in the text. No other items should be included.
+
+#### Rules - Bibliography
+
+- First, only primary references should be listed. References to unpublished data, papers in press, abstracts, theses, and other secondary materials should not clutter up the Literature Cited. If such a reference seems absolutely essential, it may be added parenthetically in the text.
+- Second, check all parts of every reference against the original publication, before the manuscript is submitted, and perhaps again at the galley-proof stage.
+
+There are far more mistakes in the Literature Cited section of a paper than anywhere else.
 
 ### Appendices
 
-- Some papers have appendices giving detail of proofs or experimental results, and, where appropriate,material such as listings ofcomputer programs.
+- Some papers have appendices giving detail of proofs or experimental results, and, where appropriate,material such as listings of computer programs.
 - Appendices are only occasionally necessary for a paper, in cases where there is material such as a proof whose length would interrupt the flow.
 
 ## Writing Up Checklist

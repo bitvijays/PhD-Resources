@@ -2,7 +2,7 @@
 
 Hello PhD Student!
 
-We have created this community blog to help you have the resources to complete your PhD efficiently. The resources about performing different steps of PhD are scattered around the web. The blog/ repository is an attempt to gather them and summarize in one place.
+We have created this community blog to help you have the resources to complete your PhD efficiently. The resources about performing different steps of PhD are scattered around the web. The blog/repository is an attempt to gather them and summarize in one place.
 
 ## Getting Started
 

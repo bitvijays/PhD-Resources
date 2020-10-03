@@ -1,8 +1,17 @@
 # Writing Papers
 
-- A paper is an organized description of hypotheses, data and conclusions, intended to instruct the reader.
-- Your objective in research is to formulate and test hypotheses, to draw conclusions from these tests, and to teach these conclusions to others.
-- Your objective is not to "collect data".
+The well-written scientific paper has two essential ingredients: organisation and appropriate language within that organization.
+
+A scientific paper is highly stylized, with distinctive and clearly evident components parts. The reporting of scientific data should be done in an organised, meaningful pattern, wherein the components parts will be recognizable quickly and easily to colleagues interested in those data.
+
+The components parts of a scientific paper are reviewed: Title, Abstract, Introduction, Materials are Methods, Results, Discussion, Acknowledgement, Literature Cited; and with quoted material, inappropriate language use is illustrated.
+
+If the ingredients of the paper are properly organised, the paper will almost write itself.
+
+Your objective in research
+
+- is to formulate and test hypotheses, to draw conclusions from these tests, and to teach these conclusions to others.
+- is not to "collect data".
 
 ## Prepare the Paper Outline
 

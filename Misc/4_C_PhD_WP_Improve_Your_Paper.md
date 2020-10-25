@@ -267,7 +267,9 @@ Good style is about clear, easy-to-read writing, which can be achieved by follow
 
 - It is likewise helpful to avoid nested sentences, that is, information embedded within a sentence that is not part of its main statement.
 - Nested content, particularly if in parentheses, should be omitted. If such content really is required, then put it in a separate sentence.
-- If an “-ing” suffix can be replaced by “-ation of”, as in this example, then it is probably a good idea to do so.
+- If an “-ing” suffix can be replaced by “-ation of”, then it is probably a good idea to do so. Example below
+  - In this context, developing tools is not an option.
+  - In this context, development of tools is not an option.
 
 ### Tense
 

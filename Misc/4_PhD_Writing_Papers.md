@@ -32,3 +32,7 @@ Refer [Final Touch](4_D_PhD_WP_Final_Touch.md)
 ## LaTeX Tips
 
 Refer [LaTeX Tips](4_E_PhD_WP_LaTeX_Tips.md)
+
+## Appendix Basic Writing Concepts
+
+Refer [Basic Writing Concepts](4_F_PhD_WP_Basic_Writing_Concepts.md)

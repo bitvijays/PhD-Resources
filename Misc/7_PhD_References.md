@@ -12,9 +12,13 @@
 - [How to Write a Scientific Paper](../Resources/Write/Writing_Scientific_Paper.pdf)
 - [Tips for Writing Technical Paper](../Resources/Write/Writing_Technical_Papers.pdf)
 
-Overall Writing
+## Overall Writing
 
-- [Writing for Computer Science](https://link.springer.com/book/10.1007%2F978-1-4471-6639-9) - Please consider buying the book to support the author.
+Please consider buying the book to support the authors.
+
+- [Writing for Computer Science](https://link.springer.com/book/10.1007%2F978-1-4471-6639-9)
+
+- [Writing Science in Plain English](https://press.uchicago.edu/ucp/books/book/chicago/W/bo15288825.html)
 
 ## Review Papers - References
 

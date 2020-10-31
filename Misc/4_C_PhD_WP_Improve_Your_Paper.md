@@ -9,6 +9,69 @@ To improve the paper, please refer
 3. [Punctuation](#Punctuation)
 4. [Graphs, Figures and Tables](#graphs-figures-and-tables)
 
+Readers look for a story about characters and actions; for strong verbs close to their subjects; for old information at the beginnings of sentences and new information at the ends; and for specific kinds of information in predictable places in paragraphs and documents.
+
+## Tell a story
+
+### Make Characters Subjcts and Their Actions Verb
+
+- All stories feature characters that act. Choose characters as the subjects of your sentences and their actions as verbs. 
+- Characters refere to tangible, concrete nouns like sandstone, aspen trees, or T cells.
+- The more concrete the characters and the more vigorous their actions, the better the story.
+
+- Rather than choosing concrete characters as subjects, many scientific writer choose abstract nouns.
+- Abstract nouns come from verbs and sometimes adjectives. They name intangible things such as ideas, emo tions, or qualities, and they don't work well as characters. Here are some common abstract nouns and the verbs and adjectives they come from:
+
+| Verb        | Abstract Noun  |
+|-------------|----------------|
+| understand  | understanding  |
+| observe     | observation    |
+| interpret   | interpretation |
+| assume      | assumption     |
+| predict     | prediction     |
+| manipulate  | manipulation   |
+| demonstrate | demonstration  |
+| develop     | development    |
+| exclude     | exclusion      |
+| respond     | response       |
+| manifest    | manifestation  |
+| accumulate  | accumulation   |
+| distribute  | distribution   |
+| conserve    | conservation   |
+| manage      | management     |
+
+
+
+| Adjective  | Abstract Noun  |
+|------------|----------------|
+| efficient  | efficiency     |
+| accurate   | accuracy       |
+| applicable | applicability  |
+
+Abstract nouns are good for one purpose; they help us say concisely what would otherwise take many words to explain. For example, evolution, facilitation, and mutation are well established and widely accepted abstract nouns that condense larger ideas into one word.
+
+However,  many scientific writers use abstract nouns to make their writing more sophisticated, at least to the writer. But to readers, abs are bewildering, especially when they play important role like subjects.
+
+Subjects name the characters of your story. If the subjects in your sentences are abstract instead of concrete, readers have trouble visualizing them, and they end up in a daze.
+
+Furthermore, abstract nouns that acts as subjects tend to nudge the characters in a sentence into supporting roles such as modifiers and objects of prepositions where readers are likely to miss them.
+
+### Use Strong Verbs
+
+Strong verbs enliven a reader's interest by making vigorous connections between the characters in a sentence and the things they act upon. We often subsitute weak verbs that describe our characters' actions poorly or not at all.
+
+Two verbs are particularly weak be, and have.
+
+Ofcourse, both verbs play important parts in forming certain tenses, and forms of be (for example: is, are, was, were) are essential in writing definitons.
+
+But unless absolutely necessary, avoid using forms of be and have as main verbs. Their appearance often indicates that stronger verbs are hiding somewhere in your sentence, disguised as abstract nouns.
+
+### Place Subjects and Verbs Close Together
+
+Once readers identify the subject as the character in the story, they immediatedly look for the verb that describes what that character is doing. The closer the verb is to the subject, the clearer the sentence.
+
+If you have more than six or seven words between the subject and the verb, revise to reduce the interruption.
+
 ## Good Style
 
 ### Economy
@@ -60,6 +123,41 @@ Use direct statements and expressions involving “we” or “I” —that is, 
 Within a paper, each topic should be discussed to a similar depth.
 
 ### Voice
+
+Voice describe whether the subject of the sentence is doing the action or receiving the action. When the subject of a sentence does the action, the verb is in active voice. When the subject receives the action, the verb is in passive voice.
+
+For instance:
+
+- Active: The biologist counted the caribou.
+- Passive: The caribou were counted by the biologist.
+
+Using active voice almost always improves your writing. Sentences in active voice reflect the way we speak to each other every day, so readers find them easy to follow. Active sentences also use fewer words.
+
+Active sentences have a direct character-action-goal order. Passive sentences reverses this order and have a `be` verb preceding a form of the main verb that often ends in `-ed` or `-en`.
+
+Many passive sentences also have a `by` phrase, which explains who is doing the action.
+
+Active sentences force you to name the characters of your stories. In passive sentences, these characters can go unnammed. By ommitting characters, you violate the first principle of telling a story: make characters your subjects.
+
+#### Proper uses of Passive Voice
+
+Although, active voice generally clarifies your writing, the passive voice exists for several good reasons.
+
+First, the passive helps you keep the same or similar subjects in a series of sentences in a paragraph. If a series of sentences in a paragraph have consistent subjects, it makes for easier reading and comprehension.
+
+Passive voice can help you compose a sentence where the action that was done is important, but who did it is not.
+
+For instance:
+
+```
+Active: I cooled the samples on ice, returned them to Arizona State University, and froze them until I used them.
+
+Passive: Samples were cooled on ice, returned to Arizona State University, and frozen until used.
+```
+
+Passive voice works well here. It can save words, particularly in a list of procedures where one item is being manipulated in several different ways.
+
+Main point to remember is: Be thoughput when choosing between active and passive voice. If a good reason exists to use the passive , then use it. Otherwise, use active voice.
 
 #### Checklist - Voice
 
@@ -317,7 +415,36 @@ Good style is about clear, easy-to-read writing, which can be achieved by follow
 - A common reason for using vague terms is that some authors feel they are writing badly if they use the same word twice in a sentence or paragraph, and thus substitute a synonym, which is usually less specific.
 - The “don’t repeat words” rule might apply to creative writing, but not to technical terms that must be clearly understood.
 
-### Avoid - Choice of Words
+#### Use Short Words Instead of Long Ones
+
+Winston Churchill said `Short words are best, and old words when short, are best of all`.
+
+If you want to influence your reader with your ideas, resist the temptation to use long Latin- or French-based words where shorter ones will do.
+
+Here are some common Latin- and French-based words used in scientific writing and their shorter substitues.
+
+| Long Words     | Short Words |
+|----------------|-------------|
+| implement      | put         |
+| adhere         | stick       |
+| develop        | make        |
+| retain         | keep        |
+| utilize        | use         |
+| terminate      | end         |
+| ascertain      | find        |
+| facilitate     | help        |
+| endeavor       | try         |
+| transmit       | send        |
+| initiate       | start       |
+| alteration     | change      |
+| investigations | work        |
+| prescription   | plan        |
+| subsequent     | next        |
+| heterogenous   | patchy      |
+| spatial        | in space    |
+| temporal       | in time     |
+
+#### Avoid - Choice of Words
 
 - For example, use “begin” rather than “initiate”, “first” and “second” rather than “firstly” and “secondly”, “part” rather than “component”, and “use” rather than “utilize”.
 - Other abstract terms that are overused include “important”, “intelligent”, “method”, “paradigm”, “performance”, and “semantic”.
@@ -326,6 +453,10 @@ Good style is about clear, easy-to-read writing, which can be achieved by follow
 - Use a word only if you are sure that you know the meaning and can apply it correctly. Other words, such as “notwithstanding”, “whilst”, and “amongst”, have an archaic feel and can seem out of place in newwriting.
 - Slang should not be used in technical writing. Nor should the choice of words suggest that the writing is careless; avoid sloppy-looking abbreviations and contractions. Use “cannot” in preference to “can’t”, for example.
 - Don’t make excessive claims about your own work. Phrases such as “our method is an ideal solution to these problems” or “our work is remarkable” are not acceptable. Claims about your own work should be unarguable.
+
+#### Keep Terms the Same
+
+Many scientific writers believe that repeating the same term for 
 
 ### Qualifiers
 

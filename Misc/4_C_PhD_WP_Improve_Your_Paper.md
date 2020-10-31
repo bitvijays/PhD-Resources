@@ -15,7 +15,7 @@ Readers look for a story about characters and actions; for strong verbs close to
 
 ### Make Characters Subjcts and Their Actions Verb
 
-- All stories feature characters that act. Choose characters as the subjects of your sentences and their actions as verbs. 
+- All stories feature characters that act. Choose characters as the subjects of your sentences and their actions as verbs.
 - Characters refere to tangible, concrete nouns like sandstone, aspen trees, or T cells.
 - The more concrete the characters and the more vigorous their actions, the better the story.
 
@@ -39,8 +39,7 @@ Readers look for a story about characters and actions; for strong verbs close to
 | distribute  | distribution   |
 | conserve    | conservation   |
 | manage      | management     |
-
-
+| commit      | commitment     |
 
 | Adjective  | Abstract Noun  |
 |------------|----------------|
@@ -149,7 +148,7 @@ Passive voice can help you compose a sentence where the action that was done is 
 
 For instance:
 
-```
+```text
 Active: I cooled the samples on ice, returned them to Arizona State University, and froze them until I used them.
 
 Passive: Samples were cooled on ice, returned to Arizona State University, and frozen until used.
@@ -227,7 +226,7 @@ Main point to remember is: Be thoughput when choosing between active and passive
 
 - References that are discussed should not be anonymous.
 
-   ```
+   ```text
    X - Other work [16] has used an approach in which…
    Y - Marsden [16] has used an approach in which…
    ```
@@ -389,6 +388,34 @@ Good style is about clear, easy-to-read writing, which can be achieved by follow
 - Watch out for sequences of sentences beginning with “however”, “moreover”, “therefore”, “hence”, “thus”, “and”, “but”, “then”, “so”, “nevertheless”, or “nonetheless”.
 - Likewise, don’t overuse the pattern “First, … Second, … Last, …”. Complementary concepts should be explained as parallels, or the reader will have difficulty seeing how the concepts relate to each other.
 
+### Word for a Phrase
+
+Scientific writers habitually use wordy phrases that could be expressed more concisely.
+
+| Wordy Phrase                                | Shorter Substitute |
+|---------------------------------------------|--------------------|
+| in this study we assessed                   | we assessed        |
+| conduct an investigation of                 | investigate        |
+| were responsible for                        | caused             |
+| played the role of                          | were               |
+| in order to                                 | to                 |
+| for the following reasons                   | because            |
+| during the course of; during the process of | during             |
+| a majority; most of the                     | most               |
+| undertake an examination of                 | study              |
+| various lines of evidence                   | evidence           |
+| the analysis presented in this paper        | our analysis       |
+| in the absence of                           | without            |
+| located in; located at                      | in; at             |
+| in the vicinity of; in close proximity to   | near               |
+| in no case; on no occasion                  | never              |
+| at the present time; at this point in time  | now                |
+| an example of this is the fact that         | for example        |
+
+### The
+
+You can frequently omit the article `the` from your text without any loss of meaning.
+
 ### Emphasis
 
 - The structure of a sentence places implicit emphasis, or stress, on some words. Reorganization of a sentence can change the emphasis.
@@ -456,7 +483,11 @@ Here are some common Latin- and French-based words used in scientific writing an
 
 #### Keep Terms the Same
 
-Many scientific writers believe that repeating the same term for 
+Many scientific writers believe that repeating the same term for an important chracter makes their writing boring or repetitive. So instead they use different terms. By doing so they risk confusing their readers who think they mean differnt things. For a reader, consistent terms are the opposite of boring; they are essential to navigating new, complex information.
+
+#### Break Up Noun Strings
+
+Scientific writers have another bad habit: putting nouns and often their modifiers together into long unwieldy strings. Noun strings are difficult for readers because they don't know which word in the string is important.
 
 ### Qualifiers
 
@@ -777,3 +808,39 @@ XX
 ### Axes, Labels, and Headings
 
 - The space constraints on axes, labels, and headings may mean that some terms have to be abbreviated; Where appropriate, units should be stated in labels. Write “Size (bytes)”, not just “Size”.
+
+## Others
+
+### Metadiscourse and Transition Words
+
+Writing about your thinking or your writing is known as metadiscourse. We use metadiscourse to good effect in almost everything we write: to comment on our ideas -  `I believe, to summarize, in conclusion;` to structure what we write `first, second, more importantly;`, and to guide out reader through our writing -- `note that, in order to understand, consider now`.
+
+You may recognize useful metadiscourse by another name-transition words.Transition words are like road signs; they help reader navigate a written piece by making smooth connections between sentences and paragraphs. Used skillfully, they can make reading almost effortless.
+
+Words such as `instead, additionally, however, and therefore` direct readers along a complicated developmental pathways.
+
+While you need some metadiscourse in almost everything you write, too much can bury your ideas.
+
+Other sources of metadiscourse are hedges and emphatics. These are words we use to convey caution or confidence. When overdone, they can contribute to wordiness and give your reader the wrong impression of you as a writer and a scientist.
+
+Hedges are words such as `usually, often, sometimes, perhaps, may, might, can, could, seem, and suggest`. Although hedges often convey real uncertainty, when we use them needlessly and often, we sound unsure.
+
+The verbs, `were more likely to move, indicate, suggest, and may be`, give the reader the impression that the study's results were inconlusive.
+
+Emphatic words are the opposite of hedges. They are used for emphasis and include words like `clearly, very, obviously, indeed, undoubtedly, certainly, major, primary, and essential`. Although they don't appear often enough in scientific writing, it's refreshing when they do. Because they highlight important information, emphatics help broad audiences understand unfamiliar topics. Emphatics are also important in competitive writing such as grant proposals.
+
+### Affirmatives and Negatives
+
+Affirmative statements are often less wordy than negative statements.
+
+Negative statements are more opaque, because they imply what should be happening by stating what is not. Affirmatives state the point more clearly.
+
+| Negatives        | Affirmative |
+|------------------|-------------|
+| did not accept   | rejected    |
+| did not consider | ignored     |
+| does not have    | lacks       |
+| did not allow    | prevented   |
+| not the same     | different   |
+| not possible     | impossible  |
+| not many         | few         |

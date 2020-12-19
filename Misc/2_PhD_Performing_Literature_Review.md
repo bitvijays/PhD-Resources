@@ -36,3 +36,17 @@
 3. Explore important conferences to your area and search [DBLP Computer Science Bibliography](https://dblp.org/) for papers in that particular conference.
 4. Explore the references in the paper X, who cited that paper X via [Semantic Scholar](https://www.semanticscholar.org/). The activity would help you to understand the current work in that field.
 5. Keep searching and reading as separate activities.
+
+## Output of Literature Review
+
+Might sound crazy, however at the end of literature review, we should have a excel sheel with multiple columns such as
+
+- Problem paper tried to resolve
+- Solution they provided
+- What approach/ different steps they took? Can have multiple columns such defining if the approach took multiple steps
+- What was the initial dataset/data?
+- What was the output?
+- What tests did they perform to evaluate the program?
+- Where (which journal/conference) and which year they presented (helps to understand how the research area developed).
+
+The above format would help you to write your i) thesis background, ii) paper related work section  iii) SoK papers.

@@ -62,6 +62,20 @@ There are several common ways for structuring the body of a paper. Structure by
 
 - Complexity: For example, a simple case can be given first, then a more complex case can be explained as an extension, thus avoiding the difficulty of explaining foundational concepts in a complex framework. This approach is a kind of tutorial: the reader is brought by small steps to the full result.
 
+### Old Information and New Information
+
+Sentences have definite beginnings and ends, and readers expect to find specific information in each.
+
+#### Put Old Information at Beginnings of Sentences
+
+Organize each paragraph around one character or idea, and make it the subject of each of your sentences. These subjects become familiar to your readers and are called the old information. Because the subject precedes the verb in most English-language sentences, you will be grounding your readers in familiar territory where they need it most—at the beginnings of your sentences.
+
+For instance, if your paragraph is about linear models, then make linear models, or words that mean the same thing, your subjects. Each time your readers see one of these subjects, they will recognize it and know what you’re talking about. This allows them to concentrate on what you tell them about those subjects. 
+
+#### Put New Information at Ends of Sentences
+
+With old, familiar information at the beginnings of your sentences followed by strong verbs, the ends of the sentences are free to take the new information your reader hasn’t heard yet. Like the punch line of a good joke, this is the most interesting part of your story. Readers pay particular attention to information at the ends of sentences, so save them for what you want your reader to remember.
+
 ## Organisation
 
 Scientific papers follow a standard structure that allows readers to quickly discover the main results, and then, if interested, to examine the supporting evidence.
